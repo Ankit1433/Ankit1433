@@ -27,6 +27,6 @@ Alongside my full-time role, I contribute to part-time AI training and evaluatio
 | Project | What I built |
 | --- | --- |
 | [KrivAura](https://github.com/Ankit1433/KrivAura) · [Live demo](https://kriv-aura-ui.vercel.app/) | E-commerce backend with Node.js, PostgreSQL, and Redis. Handles product catalogs, carts, orders, and Razorpay payments. |
-| **AnkQuant(http://ankquant.in/)** | Market scanner for intraday and swing setups. Uses scheduled scans and sends qualifying alerts to Telegram. |
+| [AnkQuant](http://ankquant.in/) | Market scanner for intraday and swing setups. Uses scheduled scans and sends qualifying alerts to Telegram. |
 | [TaskManagement](https://github.com/Ankit1433/TaskManagement) | ASP.NET Core API and MVC client for assigning tasks, tracking status, and managing access by role. |
 | [MessageAutomation](https://github.com/Ankit1433/MessageAutomation) | SQL Server-backed scheduler for message campaigns with template placeholders, duplicate prevention, and execution logs. |
